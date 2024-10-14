@@ -1,6 +1,6 @@
-# Projeto de loop
+# Simulador de enconstros Pokémon
 
-Este é um loop simples simulando encontros de Pokémons, com o objetivo de capturar um "shiny Pokémon" (versão rara, cuja probabilidade de captura é 1/4096), feito com fins de estudo na linguagem C.
+Este projeto que simula encontros e a captura de Pokémons, com o objetivo de capturar um "shiny Pokémon" (versão rara, cuja probabilidade de captura é 1/4096), feito com fins de estudo na linguagem C.
 
 **Funcionalidades:**
 
